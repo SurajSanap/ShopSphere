@@ -1,6 +1,5 @@
 
-
-<img src="[https://lottie.host/689f3396-b6bb-4b61-8bfb-bb388c9dddb7/qzOM4LAyT1.lottie](https://lottie.host/embed/e760c2af-9fc3-4346-a285-cc89a1a9b169/TjQvn2kUaA.lottie)" width="400">
+https://github.com/user-attachments/assets/9e41c2c8-ada2-4b18-b895-a23d5cebc166
 
 # ShopSphere
 
