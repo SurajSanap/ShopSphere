@@ -1,10 +1,7 @@
 
 
-<div align="center">
-  <video autoplay loop muted playsinline width="600">
-    <source src="https://github.com/user-attachments/assets/9e41c2c8-ada2-4b18-b895-a23d5cebc166" type="video/mp4">
-  </video>
-</div>
+
+![Animation - 1742301538266](https://github.com/user-attachments/assets/6e4849a9-2d94-49d0-9071-3b93bc6ca51b)
 
 
 # ShopSphere
